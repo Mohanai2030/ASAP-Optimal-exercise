@@ -1,0 +1,22 @@
+{
+  "name": "asap-optimal-exercise",
+  "version": "1.0.0",
+  "description": "This is a project that reccomend different types of exercise to a wide range of people\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohanai2030/ASAP-Optimal-exercise.git"
+  },
+  "keywords": [
+    "[ASAP]"
+  ],
+  "author": "Mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohanai2030/ASAP-Optimal-exercise/issues"
+  },
+  "homepage": "https://github.com/Mohanai2030/ASAP-Optimal-exercise#readme"
+}
