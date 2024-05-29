@@ -4,7 +4,8 @@
   "description": "This project displays different workout programs to follow for different types of people",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -16,6 +17,10 @@
   "author": "Mohan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.2"
   }
 }
